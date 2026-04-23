@@ -1,5 +1,6 @@
 ## Blogposts
 
+- **[Minimal Extractable Value](https://commonware.xyz/blogs/bte)**
 - **[The Proof is in the Pairing](https://commonware.xyz/blogs/batch-pari)**
 - **[Silent Threshold Encryption Simplified](https://hackmd.io/@guruvamsi-policharla/S1WuMrAFxe)**
 - **[How to Remove the Relay in PBS](https://www.paradigm.xyz/2024/10/removing-the-relays)**
