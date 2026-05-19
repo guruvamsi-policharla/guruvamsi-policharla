@@ -1,5 +1,6 @@
 ## Blogposts
 
+- **[Phone A Friend](https://commonware.xyz/blogs/phone-a-friend)**
 - **[Minimal Extractable Value](https://commonware.xyz/blogs/bte)**
 - **[The Proof is in the Pairing](https://commonware.xyz/blogs/batch-pari)**
 - **[Silent Threshold Encryption Simplified](https://hackmd.io/@guruvamsi-policharla/S1WuMrAFxe)**
