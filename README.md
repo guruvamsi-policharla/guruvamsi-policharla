@@ -1,5 +1,6 @@
 ## Blogposts
 
+- **[Pick Your Poisons](https://commonware.xyz/blogs/pick-your-poisons)**
 - **[Phone A Friend](https://commonware.xyz/blogs/phone-a-friend)**
 - **[Minimal Extractable Value](https://commonware.xyz/blogs/bte)**
 - **[The Proof is in the Pairing](https://commonware.xyz/blogs/batch-pari)**
