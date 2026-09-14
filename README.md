@@ -1,5 +1,6 @@
 ## Blogposts
 
+- **[Out of Sight, Out of State](https://commonware.xyz/blogs/private-payments)**
 - **[Pick Your Poisons](https://commonware.xyz/blogs/pick-your-poisons)**
 - **[Phone A Friend](https://commonware.xyz/blogs/phone-a-friend)**
 - **[Minimal Extractable Value](https://commonware.xyz/blogs/bte)**
