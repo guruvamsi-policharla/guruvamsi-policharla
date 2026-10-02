@@ -1,6 +1,6 @@
 ## Blogposts
 
-- **[1992](https://commonware.xyz/blogs/1992)**
+- **[We Had It All In 1992](https://commonware.xyz/blogs/1992)**
 - **[Out of Sight, Out of State](https://commonware.xyz/blogs/private-payments)**
 - **[Pick Your Poisons](https://commonware.xyz/blogs/pick-your-poisons)**
 - **[Phone A Friend](https://commonware.xyz/blogs/phone-a-friend)**
