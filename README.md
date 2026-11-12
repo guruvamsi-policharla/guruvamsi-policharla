@@ -1,5 +1,6 @@
 ## Blogposts
 
+- **[editor](https://guruvamsi-policharla.github.io/blog/editor.html)**
 - **[We Had It All In 1992](https://commonware.xyz/blogs/1992)**
 - **[Out of Sight, Out of State](https://commonware.xyz/blogs/private-payments)**
 - **[Pick Your Poisons](https://commonware.xyz/blogs/pick-your-poisons)**
